@@ -17,6 +17,21 @@
 - **3 Controls**: Fuzz, Tone, Volume
 - **Formats**: VST3, AU (Audio Unit)
 
+## 📸 Screenshots
+
+<div align="center">
+
+### Low Fuzz Setting (Calm Cat)
+![Low Fuzz](screenshots/Captura 1.png)
+
+### Mid Fuzz Setting (Neutral Cat)
+![Mid Fuzz](screenshots/Captura 2.png)
+
+### High Fuzz Setting (Angry Cat)  
+![High Fuzz](screenshots/Captura 3.png)
+
+</div>
+
 ## 🎚️ Controls
 
 | Parameter | Range | Description |

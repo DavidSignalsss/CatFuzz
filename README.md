@@ -22,13 +22,13 @@
 <div align="center">
 
 ### Low Fuzz Setting (Calm Cat)
-![Low Fuzz](screenshots/Captura 2.png)
+![Low Fuzz](screenshots/Captura_2.png)
 
 ### Mid Fuzz Setting (Neutral Cat)
-![Mid Fuzz](screenshots/Captura 1.png)
+![Mid Fuzz](screenshots/Captura_1.png)
 
 ### High Fuzz Setting (Angry Cat)  
-![High Fuzz](screenshots/Captura 3.png)
+![High Fuzz](screenshots/Captura_3.png)
 
 </div>
 

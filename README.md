@@ -53,3 +53,33 @@
    ```bash
    git clone https://github.com/davidsignals/CatFuzz.git
 
+### Technologies
+- **JUCE Framework** 8.0+
+- **C++17**
+- **Xcode** (main IDE)
+- **AudioProcessorValueTreeState** for parameter management
+
+### 🚀 Installation
+1. Clone repository:
+git clone https://github.com/davidsignalsss/CatFuzz.git
+
+### 📊 Technical Specifications
+- **Platform: macOS 11.0+ (Apple Silicon & Intel)**
+- **Sample Rates: 44.1kHz - 192kHz**
+- **Bit Depth: 32-bit floating point**
+- **Channels: 2-in, 2-out**
+- **DAW Compatibility: Logic Pro, Ableton Live, Pro Tools, Reaper, Cubase, etc.**
+
+### 👨‍💻 Author
+David Rábago Félix (Professional Alias: David Signals)
+Audio Plugin Developer & Sound Engineer
+
+### Connect
+- **GitHub: davidsignalsss*
+- **Portfolio: davidsignalsss.github.io*
+- **Email: rabagospace@gmail.com*
+
+### 📄 License
+MIT License - See LICENSE file for details
+
+```cpp

@@ -75,9 +75,9 @@ David Rábago Félix (Professional Alias: David Signals)
 Audio Plugin Developer & Sound Engineer
 
 ### Connect
-- **GitHub: davidsignalsss*
-- **Portfolio: davidsignalsss.github.io*
-- **Email: rabagospace@gmail.com*
+- **GitHub: davidsignalsss**
+- **Portfolio: davidsignalsss.github.io**
+- **Email: rabagospace@gmail.com**
 
 ### 📄 License
 MIT License - See LICENSE file for details

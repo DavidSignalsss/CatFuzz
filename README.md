@@ -72,7 +72,7 @@ git clone https://github.com/davidsignalsss/CatFuzz.git
 
 ### 👨‍💻 Author
 David Rábago Félix (Professional Alias: David Signals)
-Audio Plugin Developer & Sound Engineer
+Audio Plugin Developer & Mechatronic Engineer
 
 ### Connect
 - **GitHub: davidsignalsss**

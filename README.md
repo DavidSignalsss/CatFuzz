@@ -22,8 +22,6 @@
 <div align="center">
 
 ### Low Fuzz Setting (Calm Cat)
-![Low Fuzz](screenshots/Captura_2.png)
-
 <p align="center">
   <img src="img/Captura 2.png" width="300">
 </p>

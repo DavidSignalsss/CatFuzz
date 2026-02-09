@@ -23,7 +23,7 @@
 
 ### Low Fuzz Setting (Calm Cat)
 <p align="center">
-  <img src="img/Captura 2.png" width="300">
+  <img src="screenshots/Captura 2.png" width="300">
 </p>
 
 ### Mid Fuzz Setting (Neutral Cat)

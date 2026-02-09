@@ -21,10 +21,10 @@
 
 <div align="center">
 
-### Low Fuzz Setting (Calm Cat)
 <p align="center">
   <img src="screenshots/Captura 2.png" width="300">
 </p>
+<p align="center"><em>Figure 1 – Low Fuzz Setting (Calm Cat).</em></p>
 
 ### Mid Fuzz Setting (Neutral Cat)
 ![Mid Fuzz](screenshots/Captura_1.png)

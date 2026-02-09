@@ -25,7 +25,7 @@
 ![Low Fuzz](screenshots/Captura_2.png)
 
 <p align="center">
-  <img src="img/Captura 2.png" alt="Step 1" width="300">
+  <img src="img/Captura 2.png" width="300">
 </p>
 
 ### Mid Fuzz Setting (Neutral Cat)

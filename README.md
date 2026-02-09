@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### Mid Fuzz Setting (Neutral Cat)
+### Low Fuzz Setting (Low Cat)
 ![Low Fuzz](screenshots/Captura_2.png)
 
 ### Mid Fuzz Setting (Neutral Cat)
